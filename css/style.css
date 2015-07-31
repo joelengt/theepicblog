@@ -23,3 +23,25 @@ body{
 		font-size: 1.4em;
 
 	}
+.box-articles-father{
+
+}
+	.box--article{
+		margin: 1em;
+		background-color: #D4D4D4;
+		padding: 15px;
+	}
+	.box--article__img-box{
+
+	}
+	.box--article__img{
+		max-width: 100%;
+	}
+	.box--article__title{
+		font-size: 1.6em;
+		text-transform: uppercase;
+	}
+	.box--article__content{
+		text-align: justify;
+		color: #333333;
+	}

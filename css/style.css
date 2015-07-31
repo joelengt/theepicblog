@@ -40,8 +40,24 @@ body{
 	.box--article__title{
 		font-size: 1.6em;
 		text-transform: uppercase;
+		color: #252525;
 	}
 	.box--article__content{
 		text-align: justify;
 		color: #333333;
+	}
+.footer__main{
+	background-color: #1D1D1D;
+	text-align: center;
+	padding: 1.5em;
+	font-size: 1.2em;
+}
+	.footer__content{
+		color: white;
+	}
+	.footer__content:after{
+		content: " -";
+	}
+	.footer__content:before{
+		content: "- ";
 	}
